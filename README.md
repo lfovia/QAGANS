@@ -2,8 +2,11 @@
 Quality Aware Generative Adversarial Networks
 ###############################
 Dataset links
+\\
 cifar : https://www.cs.toronto.edu/~kriz/cifar.html
+\\
 celebA : http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
+\\
 stl: https://cs.stanford.edu/~acoates/stl10/
 Tensorflow version compatible : 1.10.0
 Install : pip install https://github.com/adler-j/adler/archive/master.zip
