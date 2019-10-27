@@ -1,6 +1,7 @@
 # QAGANS
 Quality Aware Generative Adversarial Networks
-###############################
+
+
 Dataset links
 
 
