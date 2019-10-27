@@ -10,7 +10,6 @@ Here The main motivation is to impose statistical constraint. ( So it is valid t
 
 run celebA_NIQE_GP.py
 
-# In our experiments we observed that 
 1. Underestimation of pristine parameters will give NANs while training. so we suggest to use sufficient number of images to estimate the pristine images.
 
 #################
@@ -36,7 +35,7 @@ Please change the model parameters for various datasets
 ######################
 ##parameter estimation #########
 
-# reference_parameter_model folder #######
+# reference_parameter_model #######
 
  You can do in two ways
  
