@@ -70,8 +70,16 @@ https://github.com/adler-j/bwgan
 If you are using the code/model/data provided here in a publication, please cite our paper:
 
 
-
-" Quality Aware Generative Adversarial Networks "
+@incollection{NIPS2019_8560,
+title = {Quality Aware Generative Adversarial Networks},
+author = {PARIMALA, KANCHARLA and Channappayya, Sumohana},
+booktitle = {Advances in Neural Information Processing Systems 32},
+editor = {H. Wallach and H. Larochelle and A. Beygelzimer and F. d\textquotesingle Alch\'{e}-Buc and E. Fox and R. Garnett},
+pages = {2948--2958},
+year = {2019},
+publisher = {Curran Associates, Inc.},
+url = {http://papers.nips.cc/paper/8560-quality-aware-generative-adversarial-networks.pdf}
+}
 
 
 For any queries Please contact :
